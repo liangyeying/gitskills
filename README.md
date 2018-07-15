@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quisk.
+Creating a new branch is quisk AND simple.
